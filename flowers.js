@@ -1,4 +1,4 @@
-// Hello
+//bye
 
 var scaleSlider, nSlider, dSlider, rSlider,angleSlider, offsetSlider;
 var k = 5;
